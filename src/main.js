@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
-import codeinvue from './lib/codeInVue'
+// import codeinvue from './lib/codeInVue'
 
-Vue.use(codeinvue);
+// Vue.use(codeinvue);
 
 new Vue({
   el: '#app',
