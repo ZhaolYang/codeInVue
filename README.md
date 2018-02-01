@@ -29,7 +29,7 @@ new Vue({
 ```
 
 ### app.vue
-[vue](./src/assets/vue.png)
+![vue](./src/assets/vue.png)
 
 ### effect
-[effect](./src/assets/effect.png)
+![effect](./src/assets/effect.png)
