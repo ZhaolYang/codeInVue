@@ -1,7 +1,7 @@
 {
   "name": "codeinvue",
   "description": "write HTML, css, javascript code in vue file directively",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "ZhaolYang <kero_zhao@163.com>",
   "license": "MIT",
   "private": false,

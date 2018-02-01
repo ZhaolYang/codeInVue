@@ -2,8 +2,6 @@
 
 > write HTML, css, javascript code in vue file directively
 
-## Build Setup
-
 ## Installation
 
 ### NPM
