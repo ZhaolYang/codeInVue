@@ -2,13 +2,14 @@ var path = require('path')
 var webpack = require('webpack')
 
 module.exports = {
-  entry: './src/lib/codeInVue.js',
+  // entry: './src/lib/codeInVue.js',
+  entry: './src/main.js',
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     filename: 'codeinvue.js',
     library: 'codeinvue',
-    umdNamedDefine: true
+    // umdNamedDefine: true
   },
   module: {
     rules: [
